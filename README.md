@@ -19,7 +19,7 @@ Code: https://bit.ly/2HoDWN9
 ### Workshop 4: Reinforcement Learning
 Slides: [Links to Reinforcement Learning](https://drive.google.com/open?id=1I_Zpef6jN1R9zj_vsh_EKs_K7yy9k8rFbUJBrko-05w)
 
-Code: Check back later!
+Code: https://bit.ly/2HNToQP
 
 ### Workshop 5: Generative Adversarial Networks
 Slides: Check back later!

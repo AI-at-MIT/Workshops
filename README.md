@@ -22,7 +22,7 @@ Slides: https://bit.ly/2KpXYFI
 Code: https://bit.ly/2HNToQP
 
 ### Workshop 5: Generative Adversarial Networks
-Slides: Check back later!
+Slides: https://bit.ly/2IaD6nN
 
 ### Workshop 6: Recurrent Neural Networks
 Slides: https://bit.ly/2HM5zwR

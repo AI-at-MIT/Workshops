@@ -17,7 +17,7 @@ Slides: https://bit.ly/2qAnj6W
 Code: https://bit.ly/2HoDWN9
 
 ### Workshop 4: Reinforcement Learning
-Slides: [Links to Reinforcement Learning](https://drive.google.com/open?id=1I_Zpef6jN1R9zj_vsh_EKs_K7yy9k8rFbUJBrko-05w)
+Slides: https://bit.ly/2KpXYFI
 
 Code: https://bit.ly/2HNToQP
 
@@ -25,4 +25,6 @@ Code: https://bit.ly/2HNToQP
 Slides: Check back later!
 
 ### Workshop 6: Recurrent Neural Networks
-Slides: Check back later!
+Slides: https://bit.ly/2HM5zwR
+
+Code: https://bit.ly/2reL6JS

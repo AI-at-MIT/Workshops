@@ -1,5 +1,13 @@
 # Workshops
-2018 MIC Workshops
+
+
+## Fall 2018 MIC Workshops
+### Workshop 1: Deep Learning, Neural Networks and PyTorch
+Slides: https://goo.gl/dHHsai
+
+Code: https://goo.gl/j3DAfE
+
+## Spring 2018 MIC Workshops
 
 ### Workshop 1: Deep Learning, Neural Networks and TensorFlow
 Slides: https://bit.ly/2qz4S2p

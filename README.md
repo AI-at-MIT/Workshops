@@ -9,7 +9,7 @@ Code: https://goo.gl/j3DAfE
 ### Workshop 2: Deep Learning, Neural Networks and PyTorch
 Slides: https://goo.gl/DvWdgm
 
-Code: goo.gl/NZVVGR
+Code: https://goo.gl/NZVVGR
 
 ## Spring 2018 MIC Workshops
 

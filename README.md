@@ -6,7 +6,7 @@ Slides: https://goo.gl/dHHsai
 
 Code: https://goo.gl/j3DAfE
 
-### Workshop 2: Deep Learning, Neural Networks and PyTorch
+### Workshop 2: Neural Networks Part 2: Optimization
 Slides: https://goo.gl/DvWdgm
 
 Code: https://goo.gl/NZVVGR

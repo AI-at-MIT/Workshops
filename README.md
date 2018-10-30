@@ -14,7 +14,7 @@ Code: https://goo.gl/NZVVGR
 ### Workshop 3: Convolutional Neural Networks and Computer Vision
 Slides: https://goo.gl/iVzocJ
 
-Code: TBD
+Code: https://goo.gl/VorvEb
 
 ## Spring 2018 MIC Workshops
 

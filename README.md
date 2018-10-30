@@ -11,6 +11,11 @@ Slides: https://goo.gl/DvWdgm
 
 Code: https://goo.gl/NZVVGR
 
+### Workshop 3: Convolutional Neural Networks and Computer Vision
+Slides: https://goo.gl/iVzocJ
+
+Code: TBD
+
 ## Spring 2018 MIC Workshops
 
 ### Workshop 1: Deep Learning, Neural Networks and TensorFlow

@@ -17,9 +17,14 @@ Slides: https://goo.gl/iVzocJ
 Code: https://goo.gl/VorvEb
 
 ### Workshop 4: Recurrent Neural Networks and LSTMs
-Slides: https://docs.google.com/presentation/d/1o1Qj5OtBDX1J-_5AawHwjhtlNDlc7KmlmS9jb8Wwc_g/edit?usp=sharing
+Slides: goo.gl/QzVeJR
 
-Code: https://colab.research.google.com/drive/1oWTJKF8vj3Dfia7dB3PT_IDtcvwub-lN
+Code: goo.gl/HZ4Q6F
+
+### Workshop 5: Reinforcement Learning
+Slides: https://goo.gl/rUz4c7
+
+Code: 
 
 ## Spring 2018 MIC Workshops
 

@@ -24,7 +24,7 @@ Code: goo.gl/HZ4Q6F
 ### Workshop 5: Reinforcement Learning
 Slides: https://goo.gl/rUz4c7
 
-Code: 
+Code: https://goo.gl/fXJBp5
 
 ## Spring 2018 MIC Workshops
 

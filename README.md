@@ -17,9 +17,9 @@ Slides: https://goo.gl/iVzocJ
 Code: https://goo.gl/VorvEb
 
 ### Workshop 4: Recurrent Neural Networks and LSTMs
-Slides: goo.gl/QzVeJR
+Slides: https://goo.gl/QzVeJR
 
-Code: goo.gl/HZ4Q6F
+Code: https://goo.gl/HZ4Q6F
 
 ### Workshop 5: Reinforcement Learning
 Slides: https://goo.gl/rUz4c7

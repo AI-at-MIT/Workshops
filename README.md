@@ -7,6 +7,10 @@ Slides: https://goo.gl/v3e65W
 
 Code: https://goo.gl/j3DAfE
 
+### Workshop 2: Neural Networks Part 2: Optimization
+Slides: https://goo.gl/YmK5bB
+
+Code: https://goo.gl/NZVVGR
 
 ## Fall 2018 MIC Workshops
 ### Workshop 1: Deep Learning, Neural Networks and PyTorch

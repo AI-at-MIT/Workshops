@@ -12,6 +12,12 @@ Slides: https://goo.gl/YmK5bB
 
 Code: https://goo.gl/NZVVGR
 
+### Workshop 3: Convolutional Neural Networks and Computer Vision
+Slides: https://goo.gl/cW2sMb
+
+Code: https://goo.gl/VorvEb
+
+
 ## Fall 2018 MIC Workshops
 ### Workshop 1: Deep Learning, Neural Networks and PyTorch
 Slides: https://goo.gl/dHHsai

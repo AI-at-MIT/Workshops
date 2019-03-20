@@ -17,6 +17,12 @@ Slides: https://goo.gl/cW2sMb
 
 Code: https://goo.gl/VorvEb
 
+### Workshop 4: Recurrent Neural Networks and LSTMs
+Slides: https://goo.gl/dP34S9
+
+Code: https://goo.gl/1aer7H
+
+
 
 ## Fall 2018 MIC Workshops
 ### Workshop 1: Deep Learning, Neural Networks and PyTorch

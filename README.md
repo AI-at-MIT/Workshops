@@ -22,6 +22,10 @@ Slides: https://goo.gl/dP34S9
 
 Code: https://goo.gl/1aer7H
 
+### Workshop 5: Reinforcement Learning
+Slides: http://tinyurl.com/yxbjohaw
+
+Code: https://goo.gl/fXJBp5
 
 
 ## Fall 2018 MIC Workshops

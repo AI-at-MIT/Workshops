@@ -30,7 +30,7 @@ Code: https://goo.gl/fXJBp5
 ### Workshop 6: Generative Adversarial Networks
 Slides: http://tiny.cc/gans-slides
 
-Code: TBA
+Code: http://tiny.cc/gans-lab
 
 
 ## Fall 2018 MIC Workshops

@@ -27,6 +27,11 @@ Slides: http://tinyurl.com/yxbjohaw
 
 Code: https://goo.gl/fXJBp5
 
+### Workshop 6: Generative Adversarial Networks
+Slides: http://tiny.cc/gans-slides
+
+Code: TBA
+
 
 ## Fall 2018 MIC Workshops
 ### Workshop 1: Deep Learning, Neural Networks and PyTorch

@@ -7,35 +7,35 @@ Slides: https://goo.gl/v3e65W
 
 Lab: https://goo.gl/j3DAfE
 
-Solutions to the lab:
+Solutions to the lab: https://tinyurl.com/y4o39o3e 
 
 ### Workshop 2: Neural Networks Part 2: Optimization
 Slides: https://goo.gl/YmK5bB
 
 Lab: https://goo.gl/NZVVGR
 
-Solutions to the lab:
+Solutions to the lab: https://tinyurl.com/yydqmvpr 
 
 ### Workshop 3: Convolutional Neural Networks and Computer Vision
 Slides: https://goo.gl/cW2sMb
 
 Lab: https://goo.gl/VorvEb
 
-Solutions to the lab:
+Solutions to the lab: https://tinyurl.com/y2zon8eo 
 
 ### Workshop 4: Recurrent Neural Networks and LSTMs
 Slides: https://goo.gl/dP34S9
 
 Lab: https://goo.gl/1aer7H
 
-Solutions to the lab:
+Solutions to the lab: https://tinyurl.com/yyobkzv8 
 
 ### Workshop 5: Reinforcement Learning
 Slides: http://tinyurl.com/yxbjohaw
 
 Lab: https://goo.gl/fXJBp5
 
-Solutions to the lab:
+Solutions to the lab: https://tinyurl.com/y48o7yjz 
 
 ### Workshop 6: Generative Adversarial Networks
 Slides: http://tiny.cc/gans-slides

@@ -5,33 +5,44 @@
 ### Workshop 1: Deep Learning, Neural Networks and PyTorch
 Slides: https://goo.gl/v3e65W
 
-Code: https://goo.gl/j3DAfE
+Lab: https://goo.gl/j3DAfE
+
+Solutions to the lab:
 
 ### Workshop 2: Neural Networks Part 2: Optimization
 Slides: https://goo.gl/YmK5bB
 
-Code: https://goo.gl/NZVVGR
+Lab: https://goo.gl/NZVVGR
+
+Solutions to the lab:
 
 ### Workshop 3: Convolutional Neural Networks and Computer Vision
 Slides: https://goo.gl/cW2sMb
 
-Code: https://goo.gl/VorvEb
+Lab: https://goo.gl/VorvEb
+
+Solutions to the lab:
 
 ### Workshop 4: Recurrent Neural Networks and LSTMs
 Slides: https://goo.gl/dP34S9
 
-Code: https://goo.gl/1aer7H
+Lab: https://goo.gl/1aer7H
+
+Solutions to the lab:
 
 ### Workshop 5: Reinforcement Learning
 Slides: http://tinyurl.com/yxbjohaw
 
-Code: https://goo.gl/fXJBp5
+Lab: https://goo.gl/fXJBp5
+
+Solutions to the lab:
 
 ### Workshop 6: Generative Adversarial Networks
 Slides: http://tiny.cc/gans-slides
 
-Code: http://tiny.cc/gans-lab
+Lab: http://tiny.cc/gans-lab
 
+Solutions to the lab: http://tiny.cc/gans-lab (code already working)
 
 ## Fall 2018 MIC Workshops
 ### Workshop 1: Deep Learning, Neural Networks and PyTorch

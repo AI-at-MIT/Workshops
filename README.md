@@ -1,5 +1,50 @@
 # Workshops
 
+## Fall 2019 MIC Workshops
+
+### Workshop 1: Deep Learning, Neural Networks and PyTorch
+Slides: http://bit.ly/ws1slides
+
+Lab: http://bit.ly/ws1colab
+
+Solutions to the lab: http://bit.ly/ws1sols
+
+### Workshop 2: Neural Networks Part 2: Optimization
+Slides: http://bit.ly/micslides2
+
+Lab: http://bit.ly/micworkshop2
+
+Solutions to the lab: http://bit.ly/micsols2
+
+### Workshop 3: Convolutional Neural Networks and Computer Vision
+Slides: http://bit.ly/micslides3
+
+Lab: https://bit.ly/2K2Vij0
+
+Solutions to the lab: https://tinyurl.com/y2zon8eo 
+
+### Workshop 4: Recurrent Neural Networks and LSTMs
+Slides: https://goo.gl/dP34S9
+
+Lab: https://goo.gl/1aer7H
+
+Solutions to the lab: https://tinyurl.com/yyobkzv8 
+
+### Workshop 5: Reinforcement Learning
+Slides: http://bit.ly/micslides5
+
+Lab: http://bit.ly/miclab5
+
+Solutions to the lab: http://bit.ly/miclab5sols
+
+### Workshop 6: Generative Adversarial Networks
+Slides: http://tiny.cc/gans-slides
+
+Lab: http://tiny.cc/gans-lab
+
+Solutions to the lab: http://tiny.cc/gans-lab (code already working)
+
+
 ## Spring 2019 MIC Workshops
 
 ### Workshop 1: Deep Learning, Neural Networks and PyTorch

@@ -1,5 +1,49 @@
 # Workshops
 
+## Fall 2020 AI@MIT Workshops
+
+### Workshop 1: Deep Learning, Neural Networks and PyTorch
+Slides: https://tinyurl.com/aim-w1-pres
+
+Lab: http://tinyurl.com/aim-w1-lab
+
+Solutions to the lab: https://tinyurl.com/aim-w1-sol
+
+### Workshop 2: Neural Networks Part 2: Optimization
+Slides: https://bit.ly/34axQtn
+
+Lab: https://bit.ly/3jiAt2z
+
+Solutions to the lab: https://bit.ly/33fkblu
+
+### Workshop 3: Convolutional Neural Networks for Classification
+Slides: https://tinyurl.com/aim20w3slides
+
+Lab: https://tinyurl.com/aim20w3labs
+
+Solutions to the lab: https://tinyurl.com/aim20w3labsol
+
+### Workshop 4: Recurrent Neural Networks and LSTMs
+Slides: https://tinyurl.com/aim20w4slides
+
+Lab: https://tinyurl.com/aim20w4labs
+
+Solutions to the lab: https://tinyurl.com/aim20w4labsol
+
+### Workshop 5: Reinforcement Learning
+Slides: http://tinyurl.com/aim20w5slides
+
+Lab: https://tinyurl.com/aim20w5lab
+
+Solutions to the lab: https://tinyurl.com/aim20w5sol
+
+### Workshop 6: Generative Adversarial Networks
+Slides: https://tinyurl.com/aim20slides
+
+Lab: https://tinyurl.com/aim20lab
+
+Solutions to the lab: https://tinyurl.com/aim20labsol
+
 ## Fall 2019 MIC Workshops
 
 ### Workshop 1: Deep Learning, Neural Networks and PyTorch

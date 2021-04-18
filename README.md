@@ -1,5 +1,33 @@
 # Workshops
 
+## Spring 2021 AI@MIT Workshops
+
+### Workshop 7: Style Transfer
+
+Slides: https://tinyurl.com/aim-w7-slides
+
+Lab: https://tinyurl.com/aim-w7-lab
+
+### Workshop 8: Transfer Learning
+
+Slides: https://tinyurl.com/aim21-w8-slides
+
+Lab: https://tinyurl.com/aim21-w8-lab
+
+### Workshop 9: Language Models and Transformers
+
+Slides: https://tinyurl.com/aim21-w9-slides
+
+Lab: https://tinyurl.com/aim21-w9-lab
+
+### Workshop 10: Interpretability and Structure of Neural Networks
+
+Slides: https://tinyurl.com/aim21-w10-slides
+
+Lab: https://tinyurl.com/aim21-w10-labs
+
+Demo: https://tinyurl.com/aim21-w10-demo
+
 ## Fall 2020 AI@MIT Workshops
 
 ### Workshop 1: Deep Learning, Neural Networks and PyTorch

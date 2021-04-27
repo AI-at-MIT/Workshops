@@ -28,6 +28,12 @@ Lab: https://tinyurl.com/aim21-w10-labs
 
 Demo: https://tinyurl.com/aim21-w10-demo
 
+### Workshop 11: Meta-Learning
+
+Slides: https://tinyurl.com/aim21-w11-slides
+
+Lab: https://tinyurl.com/aim21-w11-lab
+
 ## Fall 2020 AI@MIT Workshops
 
 ### Workshop 1: Deep Learning, Neural Networks and PyTorch

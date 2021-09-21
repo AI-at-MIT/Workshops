@@ -1,4 +1,11 @@
 # Workshops
+## Fall 2021 AI@MIT Workshops
+
+### Workshop 1: Introduction to Deep Learning + PyTorch
+
+Slides: tinyurl.com/workshop-1-presentation
+
+Solutions to Lab: tinyurl.com/workshop-1-solutions
 
 ## Spring 2021 AI@MIT Workshops
 

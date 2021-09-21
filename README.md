@@ -3,9 +3,9 @@
 
 ### Workshop 1: Introduction to Deep Learning + PyTorch
 
-Slides: tinyurl.com/workshop-1-presentation
+Slides: https://tinyurl.com/workshop-1-presentation
 
-Solutions to Lab: tinyurl.com/workshop-1-solutions
+Solutions to Lab: https://tinyurl.com/workshop-1-solutions
 
 ## Spring 2021 AI@MIT Workshops
 

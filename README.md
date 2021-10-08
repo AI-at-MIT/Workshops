@@ -1,6 +1,12 @@
 # Workshops
 ## Fall 2021 AI@MIT Workshops
 
+### Workshop 1: PyTorch Abstractions + Deployment
+
+Slides: https://tinyurl.com/aim21-f2-slides
+
+Solutions to Lab: https://tinyurl.com/aim21-f2-lab-solutions
+
 ### Workshop 1: Introduction to Deep Learning + PyTorch
 
 Slides: https://tinyurl.com/workshop-1-presentation

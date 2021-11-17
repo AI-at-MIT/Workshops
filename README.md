@@ -1,6 +1,18 @@
 # Workshops
 ## Fall 2021 AI@MIT Workshops
 
+### Workshop 5: Recurrent Neural Networks (RNNs)
+
+Slides: https://docs.google.com/presentation/d/1EeRSbkHdDjQkhKWNUxBa3NSZD7TFohwC/edit?usp=sharing&ouid=108062685813780551777&rtpof=true&sd=true
+
+Solutions to Lab: https://colab.research.google.com/drive/1hx6nCWROzPDZxWisoTdwX0blil3HWtji?usp=sharing
+
+### Workshop 4: Convolutional Neural Networks (CNNs)
+
+Slides: https://docs.google.com/presentation/d/1e7BMYyVt9IDNWG1Mk4PwzbSR_vrWIYvQ/edit?usp=sharing&ouid=108062685813780551777&rtpof=true&sd=true
+
+Solutions to Lab: https://colab.research.google.com/drive/1zwJa-OSEL-tP72gej3oa8KLS--20lb3b?usp=sharing
+
 ### Workshop 3: End-to-End Training
 
 Solutions to Lab: https://tinyurl.com/aim21-f3-lab-solutions

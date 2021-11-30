@@ -1,6 +1,12 @@
 # Workshops
 ## Fall 2021 AI@MIT Workshops
 
+### Workshop 6: PyTorch Lightning
+
+PyTorch Lightning: https://www.pytorchlightning.ai/
+
+Solutions to the lab: https://colab.research.google.com/drive/12o9rI6EHu1CJPwwftcZVexCFGQYO7sI4?usp=sharing
+
 ### Workshop 5: Recurrent Neural Networks (RNNs)
 
 Slides: https://docs.google.com/presentation/d/1EeRSbkHdDjQkhKWNUxBa3NSZD7TFohwC/edit?usp=sharing&ouid=108062685813780551777&rtpof=true&sd=true
